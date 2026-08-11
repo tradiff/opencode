@@ -4,4 +4,4 @@
 
 ## Changes From Upstream
 
-No fork-specific changes are currently recorded.
+- `AGENTS.override.md` takes precedence over `AGENTS.md` and `CLAUDE.md` instruction files.
