@@ -1,3 +1,4 @@
+<p align="center"><a href="FORK.md">Fork-specific changes</a></p>
 <p align="center">
   <a href="https://opencode.ai">
     <picture>
